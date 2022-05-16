@@ -13,13 +13,13 @@
             <div class="container2">
                 <table class="tabliza">
                     <tr>
-                        <td><a href="./obomne.html" class="silka">Обо мне</a></td>
-                        <td><a href="./detstvo.html" class="silka">Детство</a></td>
-                        <td><a href="./school.html" class="silka">Школа</a></td>
-                        <td><a href="./university.html" class="silka">Университет</a></td>
-                        <td><a href="./hobbi.html" class="silka">Хобби</a></td>
-                        <td><a href="./resume.html" class="silka">Резюме</a></td>
-                        <td><a href="./svayz.html" class="silka">Связаться со мной</a></td>
+                        <td><a href="./index.md" class="silka">Обо мне</a></td>
+                        <td><a href="./detstvo.md" class="silka">Детство</a></td>
+                        <td><a href="./school.md" class="silka">Школа</a></td>
+                        <td><a href="./university.md" class="silka">Университет</a></td>
+                        <td><a href="./hobbi.md" class="silka">Хобби</a></td>
+                        <td><a href="./resume.md" class="silka">Резюме</a></td>
+                        <td><a href="./svayz.md" class="silka">Связаться со мной</a></td>
                     </tr>
                 </table>
                 <div>
@@ -46,8 +46,8 @@
                 </div>
                 <table class="tabliza2">
                     <tr>
-                        <td ><a href="./hobbi.html" class="silka2"> &lt;Назад </a></td>
-                        <td ><a href="./svayz.html" class="silka2">Вперед&gt;</a></td>
+                        <td ><a href="./hobbi.md" class="silka2"> &lt;Назад </a></td>
+                        <td ><a href="./svayz.md" class="silka2">Вперед&gt;</a></td>
                     </tr>
                 </table>
             </div>
