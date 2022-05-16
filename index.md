@@ -3,8 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <title>Обо мне</title>
-        <link rel="stylesheet" href="./css/oformlenie.css">
-        <link rel="stylesheet" href="./css/foto.css">
+        <link rel="stylesheet" href=".oformlenie.css">
+        <link rel="stylesheet" href=".foto.css">
     </head>
     <body>
         <div class="bac">
