@@ -34,7 +34,7 @@
                     <div class="foto"><img src="./Photo/Me.jpg" class="obome-foto" alt="Фото"></div>
                 <table class="tabliza2">
                     <tr>
-                        <td><a href="./Детство.md" class="silka2">Вперед&gt;</a></td>
+                        <td><a href="./detstvo.html" class="silka2">Вперед&gt;</a></td>
                     </tr>
                 </table>
             </div>
